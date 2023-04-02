@@ -6,3 +6,5 @@
 <span style="color: blue">Dieser Text ist blau</span>
 
 <span style="color: blue !important;">Dieser Text ist blau</span>
+
+<span style="color:blue">Dieser Text wird in Blau angezeigt</span>
