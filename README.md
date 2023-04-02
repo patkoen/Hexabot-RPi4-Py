@@ -4,3 +4,5 @@
 <p style="color: #FF0000">Dieser Text ist rot</p>
 
 <span style="color: blue">Dieser Text ist blau</span>
+
+<span style="color: blue !important;">Dieser Text ist blau</span>
