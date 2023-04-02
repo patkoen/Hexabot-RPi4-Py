@@ -1,5 +1,5 @@
 
-<h1 style="color:red" > Hexabot </h1>
+__Hexabot__
 
 <p style="color: #FF0000">Dieser Text ist rot</p>
 
@@ -9,4 +9,4 @@
 
 <span style="color:blue">Dieser Text wird in Blau angezeigt</span>
 
-[Text in Blau](https://example.com/blue)
+[Text in Blau]()
