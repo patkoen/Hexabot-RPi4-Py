@@ -1,1 +1,5 @@
-try a lot
+<p align="center"><u>Hexabot</u></p>
+
+
+![Hexabot](/img/Hexabot_Model_v1.png)
+![Hexabot](/img/Hexabot.png)
